@@ -8,7 +8,7 @@ Resources:
       Handler: lambda_function.lambda_handler
       Runtime: python3.6
       CodeUri: .
-      Description: A starter AWS Lambda function.
+      Description: A 2nd starter AWS Lambda function.
       MemorySize: 128
       Timeout: 3
       Role: 'arn:aws:iam::368017170924:role/lambda_basic_execution'
